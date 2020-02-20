@@ -1,7 +1,5 @@
 package com.jojoIde.book.springboot.domain.posts;
 
-import com.jojoIde.book.springboot.web.dto.PostsUpdateRequestDto;
-import javafx.beans.binding.BooleanExpression;
 import org.junit.After;
 import org.junit.Test;
 import org.junit.runner.RunWith;
